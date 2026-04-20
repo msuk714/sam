@@ -73,7 +73,7 @@ const GSC={
   p2ezpay:{
     title:'P2EzPay — Google Search Console',
     sub:'Aug–Dec 2025 (Before) vs Dec 2025–Apr 2026 (After) · Impressions +954% · Clicks +800%',
-    type:'img', url:'https://raw.githubusercontent.com/msuk714/Mohammad-Sami/main/images/P2ezPayPerformance.png'
+    type:'img', url:'<img src="/images/P2ezPayPerformance.png">'
   },
   /* ── RECENT PROJECTS ── */
   rosa:{
