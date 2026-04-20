@@ -63,17 +63,17 @@ const GSC={
   roman:{
     title:'Roman Electric Co., Inc. — Google Search Console',
     sub:'Aug–Dec 2025 (Before) vs Dec 2025–Apr 2026 (After) · Impressions +105.3% · Clicks +10%',
-    type:'img', url:''
+    type:'img', url:'https://github.com/msuk714/Mohammad-Sami/blob/main/images/RomanElectricsPerformance.png'
   },
   signarama:{
     title:'Milwaukee Signarama — Google Search Console',
     sub:'Aug–Dec 2025 (Before) vs Dec 2025–Apr 2026 (After) · Impressions +95.8% · Clicks +83.8%',
-    type:'img', url:''
+    type:'img', url:'https://raw.githubusercontent.com/msuk714/Mohammad-Sami/main/images/MilwaukeeSignaramaPerformance.png'
   },
   p2ezpay:{
     title:'P2EzPay — Google Search Console',
     sub:'Aug–Dec 2025 (Before) vs Dec 2025–Apr 2026 (After) · Impressions +954% · Clicks +800%',
-    type:'img', url:''
+    type:'img', url:'https://raw.githubusercontent.com/msuk714/Mohammad-Sami/main/images/P2ezPayPerformance.png'
   },
   /* ── RECENT PROJECTS ── */
   rosa:{
